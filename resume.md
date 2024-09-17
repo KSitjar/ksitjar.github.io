@@ -30,9 +30,11 @@ Data-Driven Decision Making | Process Improvement
 UX/UI Collaboration | API Integration & Documentation
 
 ### Product Management Tools:
+
 Azure DevOps | Atlassian Confluence | Atlassian Atlas | LucidChart | Figma
 
 ### Data Analytics:
+
 Power BI | Google Analytics
 
 ### Foundational Knowledge:
