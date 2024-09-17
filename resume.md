@@ -15,27 +15,32 @@ Experienced Digital Product Manager with 8+ years of experience specializing in 
 ### Product Management & Leadership:
 
 **Product Skills**:
-- Product Vision & Strategy | Product Roadmap Planning
-- Journey & Story Mapping | User Story Development | Backlog Management
+Product Vision & Strategy | Product Roadmap Planning
+Journey & Story Mapping | User Story Development | Backlog Management
 
 **Leadership Skills**:
-- Cross-Functional Collaboration | Stakeholder Engagement
-- Agile Methodologies (Scrum, Kanban) | Sprint Planning
+Cross-Functional Collaboration | Stakeholder Engagement
+Agile Methodologies (Scrum, Kanban) | Sprint Planning
 
 **Technical Skills**:
-- Data-Driven Decision Making | Process Improvement
-- UX/UI Collaboration | API Integration & Documentation
+Data-Driven Decision Making | Process Improvement
+UX/UI Collaboration | API Integration & Documentation
 
 ### Product Management Tools:
-- Azure DevOps | Atlassian Confluence | Atlassian Atlas | LucidChart | Figma
+Azure DevOps | Atlassian Confluence | Atlassian Atlas | LucidChart | Figma
 
 ### Data Analytics:
-- Power BI | Google Analytics
+Power BI | Google Analytics
 
 ### Foundational Knowledge:
-- **QA Automation (Past Experience)**: Selenium | Cucumber | Puppeteer (retained foundational understanding of QA automation principles, not hands-on since 2020)
-- **Programming Languages**: HTML/CSS | JavaScript | SQL (no longer actively coding)
-- **Database Management**: MongoDB | Postgres (previous experience managing and querying databases, not in current use)
+**QA Automation (Past Experience)**
+Selenium | Cucumber | Puppeteer 
+
+**Programming Languages**:
+HTML/CSS | JavaScript | SQL
+
+**Database Management**
+MongoDB | Postgres (previous experience managing and querying databases, not in current use)
 
 ---
 
