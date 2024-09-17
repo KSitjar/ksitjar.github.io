@@ -15,14 +15,17 @@ Experienced Digital Product Manager with 8+ years of experience specializing in 
 ### Product Management & Leadership:
 
 **Product Skills**:
+
 Product Vision & Strategy | Product Roadmap Planning
 Journey & Story Mapping | User Story Development | Backlog Management
 
 **Leadership Skills**:
+
 Cross-Functional Collaboration | Stakeholder Engagement
 Agile Methodologies (Scrum, Kanban) | Sprint Planning
 
 **Technical Skills**:
+
 Data-Driven Decision Making | Process Improvement
 UX/UI Collaboration | API Integration & Documentation
 
@@ -34,12 +37,15 @@ Power BI | Google Analytics
 
 ### Foundational Knowledge:
 **QA Automation (Past Experience)**
+
 Selenium | Cucumber | Puppeteer 
 
 **Programming Languages**:
+
 HTML/CSS | JavaScript | SQL
 
 **Database Management**
+
 MongoDB | Postgres (previous experience managing and querying databases, not in current use)
 
 ---
@@ -108,4 +114,3 @@ Florida State College at Jacksonville, Jacksonville, FL
 ---
 
 [Download PDF](ksitjar_resume.pdf) | [GitHub](https://github.com/ksitjar) | [Portfolio](https://misocloud.com)
-
