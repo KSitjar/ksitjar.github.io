@@ -37,7 +37,6 @@ Experienced Digital Product Manager with 8+ years of experience specializing in 
 - **Programming Languages**: HTML/CSS | JavaScript | SQL (no longer actively coding)
 - **Database Management**: MongoDB | Postgres (previous experience managing and querying databases, not in current use)
 
-
 ---
 
 ## Work Experience
@@ -67,7 +66,6 @@ Experienced Digital Product Manager with 8+ years of experience specializing in 
 - Played a key role in developing the testing strategy for **Account Details & Activity** pages, enabling a smooth transition to Angular and improving page load performance.
 - Utilized data analytics and customer insights to identify pain points, driving improvements in onboarding and overall customer experience.
 - Led defect triage and incident management processes, ensuring compliance with regulatory standards and reducing post-release defects.
-
 
 ---
 
@@ -104,5 +102,5 @@ Florida State College at Jacksonville, Jacksonville, FL
 
 ---
 
-**Download PDF** | [GitHub](https://github.com/ksitjar/resume) | [Portfolio](https://misocloud.com)
+[Download PDF](ksitjar_resume.pdf) | [GitHub](https://github.com/ksitjar) | [Portfolio](https://misocloud.com)
 
