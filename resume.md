@@ -1,33 +1,42 @@
 # Kenneth Sitjar
 
 **Digital Product Manager**  
-kenneth@misocloud.com | (904) 432-5695 | [LinkedIn](https://www.linkedin.com/in/ksitjar) | [Portfolio](https://misocloud.com)
+[kenneth@misocloud.com](mailto:kenneth@misocloud.com) | (904) 432-5695 | [LinkedIn](https://www.linkedin.com/in/ksitjar) | [Portfolio](https://misocloud.com)
 
 ---
 
 ## Summary
-Experienced Digital Product Manager with 8+ years of experience in product development, quality assurance, and Agile methodologies. Proven track record in leading cross-functional teams to deliver user-centric digital solutions, increasing digital channel member growth by over 25% YoY. Expertise in driving product vision, strategy, and execution through data-driven decision-making. Adept at integrating third-party services and ensuring high-quality product releases. Passionate about creating impactful experiences that drive business growth.
+Experienced Digital Product Manager with 8+ years of experience specializing in API integration, customer onboarding processes, and digital product development. Proven success in driving cross-functional teams to deliver seamless, data-driven solutions that enhance customer experiences across banking platforms. Familiar with testing, architecting, and documenting APIs to support development and integration. Adept at leveraging data analytics for continuous product refinement, and leading product strategies in an Agile environment. Passionate about improving onboarding journeys and building scalable solutions that drive business growth and customer satisfaction.
 
 ---
 
 ## Skills
 
-**Technical Expertise**:
-- HTML/CSS | JavaScript | Java | Node.js | Puppeteer | Selenium
-- SQL | MongoDB | Postgres
+### Product Management & Leadership:
 
-**Product Management Tools**:
-- JIRA | Rally | RTC | Azure DevOps
-- Confluence | Miro | Roadmunk
+**Product Skills**:
+- Product Vision & Strategy | Product Roadmap Planning
+- Journey & Story Mapping | User Story Development | Backlog Management
+
+**Leadership Skills**:
+- Cross-Functional Collaboration | Stakeholder Engagement
+- Agile Methodologies (Scrum, Kanban) | Sprint Planning
+
+**Technical Skills**:
+- Data-Driven Decision Making | Process Improvement
+- UX/UI Collaboration | API Integration & Documentation
+
+### Product Management Tools:
+- Azure DevOps | Atlassian Confluence | Atlassian Atlas | LucidChart | Figma
+
+### Data Analytics:
 - Power BI | Google Analytics
-- Adobe Creative Suite
 
-**Core Skills**:
-- Product roadmap planning
-- Agile methodologies (Scrum, Kanban)
-- UX/UI design
-- Data-driven decision-making
-- Process improvement and documentation
+### Foundational Knowledge:
+- **QA Automation (Past Experience)**: Selenium | Cucumber | Puppeteer (retained foundational understanding of QA automation principles, not hands-on since 2020)
+- **Programming Languages**: HTML/CSS | JavaScript | SQL (no longer actively coding)
+- **Database Management**: MongoDB | Postgres (previous experience managing and querying databases, not in current use)
+
 
 ---
 
@@ -35,47 +44,43 @@ Experienced Digital Product Manager with 8+ years of experience in product devel
 
 ### Digital Product Manager  
 **VyStar Credit Union** – August 2020 to Present  
-- Coordinated with business partners, UX, and IT teams to manage the backlog and drive the evolution of the online account opening platform.
-- Increased new member growth in the digital channel by over 25% YoY in 2022 and 2023 while maintaining minimal technical debt and reducing bugs in production.
-- Facilitated bi-weekly releases with a focus on delivering high-value features through Agile sprints, ensuring the product met business goals and enhanced user experience.
-- Onboarded and maintained relationships with multiple vendor partners to expand platform capabilities and scalability.
-- Championed Agile methodologies, improving team collaboration and delivering efficient, standardized processes across departments.
+- Developed and drove the **product vision and strategy** for the digital account opening platform, ensuring alignment with business goals and customer needs.
+- Defined and refined **user stories** based on customer behavior data and stakeholder input, enabling more focused product development and improved user engagement.
+- Led **customer journey mapping** efforts to identify pain points in the onboarding process, resulting in a 15% reduction in customer complaints and a 20% decrease in onboarding time.
+- Led API product development for the digital account opening platform, managing the backlog and working with external partners to define API requirements, resulting in a 25% YoY increase in new digital memberships.
+- Spearheaded improvements in the onboarding process, using data-driven insights to identify pain points and refine customer journeys, reducing customer complaints by 15%.
+- Collaborated with Risk, UX, and Engineering teams to prioritize onboarding features and ensure alignment with the overall product strategy.
+- Managed the onboarding product roadmap, continuously evaluating customer behavior through onboarding analytics to deliver seamless user experiences.
+- Championed Agile methodologies, leading sprint planning and backlog grooming for API and onboarding features.
 
-### Senior Quality Assurance Automation Engineer  
+### Senior QA Automation Engineer  
 **TEKsystems (Florida Blue)** – July 2019 to July 2020  
-- Led the automation strategy for the CustomerConnect application, building and maintaining the automation suite for core functionalities, including API and UI testing.
-- Introduced the Cucumber Framework to centralize quality and reduce ambiguity in the Scrum team, increasing team productivity.
-- Successfully launched an in-house payments solution, reducing reliance on third-party vendors and improving operational control over payment transactions.
+- Managed the automation framework for APIs and onboarding components, ensuring smooth integration with third-party services and delivering key updates on time.
+- Collaborated with product teams to define API specifications, leading to the successful launch of an in-house payments processing solution.
+- Conducted incident monitoring and triage, minimizing production defects and ensuring compliance with regulatory standards.
 
-### Testing Senior Analyst  
-**Citigroup** – December 2017 to July 2019  
-- Managed testing efforts for the "Understand My Spend" journey on Citibank’s web and mobile platforms, collaborating with cross-functional teams to deliver critical features on schedule.
-- Led the rollout of the new **Account Details & Activity** page in Angular for Citibank ThankYou customers, improving page load times and user experience.
-- Coordinated multiple projects, including **ThreatMetrix Integration** and the **iOS/Android App Refresh**, to meet aggressive timelines with no impact on sprint velocity.
+### Senior QA Automation Engineer / Testing Analyst  
+**Citigroup** – May 2015 to July 2019  
+- Led testing and automation efforts for Citibank’s digital channels, including API integrations and onboarding features, ensuring smooth operation across web and mobile platforms.
+- Spearheaded the adoption of **Behavior-Driven Development (BDD)** and automated testing frameworks like **Cucumber** and **Selenium**, improving testing accuracy and reducing regression testing time.
+- Managed cross-functional teams to implement **API testing**, working closely with development and product teams to define requirements, track defects, and optimize delivery pipelines.
+- Played a key role in developing the testing strategy for **Account Details & Activity** pages, enabling a smooth transition to Angular and improving page load performance.
+- Utilized data analytics and customer insights to identify pain points, driving improvements in onboarding and overall customer experience.
+- Led defect triage and incident management processes, ensuring compliance with regulatory standards and reducing post-release defects.
 
-### Testing Intermediate Analyst  
-**Citigroup** – October 2016 to December 2017  
-- Led digital regression testing for Citibank’s North American cards, ensuring little to no customer impact post-implementation.
-- Integrated with the Double Digital Acquisitions agile team, leading testing efforts during the transformation from a hybrid POR/Agile model to full Agile development.
-- Coordinated release cycles, managing regression testing and contributing to successful sprint outcomes.
-
-### Testing Junior Analyst  
-**Citigroup** – May 2015 to October 2016  
-- Selected through the Internal Future of IT (iFIT) program to transition from operations to technology, contributing to the successful onboarding of Costco to Citi’s systems.
-- Led the iFIT program’s expansion to Citibank’s Irving office, helping train new employees in technology roles.
 
 ---
 
 ## Notable Projects
 
 ### Online Account Opening Platform (VyStar Credit Union)
-- Led a newly-formed Scrum team to deliver a complete in-house solution for managing the membership and account-opening process. Achieved a 100% increase in account funding compared to the previous platform.
+- Managed API and onboarding product lifecycle for VyStar’s digital account opening platform, improving account funding rates by 100% and reducing onboarding time by 20%.
 
 ### In-House Payments Solution (Florida Blue)
-- Supported the creation of an internal payments solution, eliminating the dependency on third-party processors. The solution improved payment processing speed and customer satisfaction.
+- Designed API integration and managed onboarding flows for the in-house payments processing system, improving transaction tracking and customer satisfaction.
 
 ### OnDot Merchant Enrichment (Citigroup)
-- Delivered key milestones for the onboarding of the OnDot vendor, enabling real-time merchant enrichment features for Citi credit card users.
+- Managed API integration with OnDot for real-time merchant data enrichment, enhancing customer experience and improving onboarding accuracy for Citi credit card holders.
 
 ---
 
@@ -87,8 +92,9 @@ Florida State College at Jacksonville, Jacksonville, FL
 ---
 
 ## Certifications
-- **Professional Scrum Product Owner I (PSPO I)**
-- **Professional Scrum Master I (PSM I)**
+**Scrum.org**
+- [Professional Scrum Product Owner I (PSPO I)](https://www.credly.com/badges/61d6549d-1ac8-434a-87fb-f6b952b47c24)
+- [Professional Scrum Master I (PSM I)](https://www.credly.com/badges/adedbe0c-b915-47c7-9daa-894897d79cb7)
 
 ---
 
