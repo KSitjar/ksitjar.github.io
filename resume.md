@@ -46,7 +46,7 @@ HTML/CSS | JavaScript | SQL
 
 **Database Management**
 
-MongoDB | Postgres (previous experience managing and querying databases, not in current use)
+MongoDB | Postgres
 
 ---
 
