@@ -64,20 +64,23 @@ As a value-driven Digital Product Manager with 4 years of product management exp
 - Oversee the online account opening product roadmap, evaluating customer behavior through analytics to deliver seamless user experiences.
 - Champion Agile methodologies, leading sprint planning and backlog grooming for API and onboarding features.
 
-### Senior QA Automation Engineer  
+### Senior Quality Assurance Automation Engineer  
 **TEKsystems (Florida Blue)** – July 2019 to July 2020  
-- Managed the automation framework for APIs and onboarding components, ensuring smooth integration with third-party services and delivering key updates on time.
-- Collaborated with product teams to define API specifications, leading to the successful launch of an in-house payments processing solution.
-- Conducted incident monitoring and triage, minimizing production defects and ensuring compliance with regulatory standards.
+
+- Senior QA Automation Engineer for CustomerConnect, an internal agent-facing application used to display Florida Blue member information and manage accounts.
+- Created and maintained the automation suite for **Core** and **Payments** projects within CustomerConnect, covering both API and UI levels.
+- Performed manual validations to ensure team success for sprint deliverables and release milestones.
+- **Introduced, implemented, and integrated the Cucumber Framework** within the Scrum team to enhance testing clarity, centralize quality and documentation, and streamline regression validation processes.
+- Contributed to the successful launch of the **first phase of an in-house Payments solution**, eliminating the need for a third-party processor (BillTrust).
 
 ### Senior QA Automation Engineer / Testing Analyst  
 **Citigroup** – May 2015 to July 2019  
-- Led testing and automation efforts for Citibank’s digital channels, including API integrations and onboarding features, ensuring smooth operation across web and mobile platforms.
-- Spearheaded the adoption of **Behavior-Driven Development (BDD)** and automated testing frameworks like **Cucumber** and **Selenium**, improving testing accuracy and reducing regression testing time.
-- Managed cross-functional teams to implement **API testing**, working closely with development and product teams to define requirements, track defects, and optimize delivery pipelines.
-- Played a key role in developing the testing strategy for **Account Details & Activity** pages, enabling a smooth transition to Angular and improving page load performance.
-- Utilized data analytics and customer insights to identify pain points, driving improvements in onboarding and overall customer experience.
-- Led defect triage and incident management processes, ensuring compliance with regulatory standards and reducing post-release defects.
+- Participated in testing efforts for Citi Credit Card Account Details & Activity and Spend Summary pages for Citibank Online and Mobile platforms (iOS and Android).
+- Assisted with the launch of the redesigned **Account Details & Activity page** for Citi ThankYou customers, contributing to rollouts for legacy and multi-relationship platformed customers.
+- Supported the adoption of **Behavioral Driven Development (BDD)** in testing for digital transformation, helping transition from eggPlant automation to the Cucumber framework.
+- Engaged in regression testing for all Cards and CBOL features across desktop and mobile platforms in North America.
+- Collaborated with cross-functional teams, including PO, TPM, and SDE, to align on testing priorities and new feature releases, ensuring seamless integration.
+- Contributed to Defect Logging and Support Resolution processes, maintaining a high validation and defect detection rate, while supporting successful iFIT pilot program testing.
 
 ---
 
