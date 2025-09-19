@@ -1,107 +1,72 @@
 # Kenneth Sitjar
 
 **Digital Product Manager**  
-[kenneth@misocloud.com](mailto:kenneth@misocloud.com) | (904) 432-5695 | [LinkedIn](https://www.linkedin.com/in/ksitjar) | [Portfolio](https://misocloud.com)
+[kenneth@misocloud.com](mailto:kenneth@misocloud.com) | [(904) 432-5695](tel:19044325695) | [LinkedIn](https://www.linkedin.com/in/ksitjar) | [Portfolio](https://misocloud.com)
 
 ---
 
-## Summary
-As a value-driven Digital Product Manager with 4 years of product management experience and over 8 years in the tech industry, I am passionate about creating products that deliver meaningful, long-term value. Certified in both **PSPO I** and **PSM I**, I excel at shaping product vision and strategy, guiding cross-functional teams, and leveraging data-driven insights to optimize onboarding processes and support API integration. My focus is on balancing customer needs with business objectives to create lasting outcomes and drive sustainable growth.
+## Summary  
+Digital Product Manager with **5+ years in product management and over a decade in technology**, delivering scalable digital banking platforms and API integrations. Skilled at guiding cross-functional teams, managing vendor relationships, and balancing customer experience with compliance and business objectives. Proven record of improving acquisition funnels, streamlining funding flows, and driving sustainable growth through API productization, onboarding optimization, and Agile leadership.  
 
 ---
 
-## Core Competencies
-
-- Product Vision & Strategy | API Integration & Documentation | Onboarding Process Optimization
-- Agile Methodologies (Scrum, Kanban) | Cross-Functional Collaboration | Data-Driven Decision Making
-- Customer Journey Mapping | Stakeholder Engagement | Process Improvement
-
----
-
-## Skills
-
-### Product Management & Leadership:
-
-**Product Skills**:
-- Product Vision & Strategy | Product Roadmap Planning
-- Journey & Story Mapping | User Story Development | Backlog Management
-
-**Leadership Skills**:
-- Cross-Functional Collaboration | Stakeholder Engagement
-- Agile Methodologies (Scrum, Kanban) | Sprint Planning
-
-**Technical Skills**:
-- Data-Driven Decision Making | Process Improvement
-- UX/UI Collaboration | API Integration & Documentation
-
-### Product Management Tools:
-- Azure DevOps | Atlassian Confluence | Atlassian Atlas | LucidChart | Figma
-
-### Data Analytics:
-- Power BI | Google Analytics
-
-### Foundational Knowledge:
-**QA Automation (Past Experience)**
-- Selenium | Cucumber | Puppeteer 
-
-**Programming Languages**:
-- HTML/CSS | JavaScript | SQL
-
-**Database Management**
-- MongoDB | Postgres
+## Core Competencies  
+- API Productization & Integrations  
+- Digital Banking Journeys (Onboarding, Funding, Account Opening)  
+- Product Vision & Roadmapping  
+- Stakeholder & Vendor Management  
+- Agile Leadership (Scrum, Kanban)  
+- Risk & Compliance Collaboration (KYC, AML, RBAC)  
+- Data-Driven Decision Making (Analytics, A/B Testing, Feature Flags)  
+- UX Partnership & Customer Journey Mapping  
 
 ---
 
-## Work Experience
+## Professional Experience  
 
 ### Digital Product Manager  
-**VyStar Credit Union** – August 2020 to Present  
-- Develop and drive the **product vision and strategy** for the digital account opening platform, ensuring alignment with business goals and customer needs.
-- Define and refine **user stories** based on customer behavior data and stakeholder input, enabling more focused product development and improved user engagement.
-- Lead **customer journey mapping** efforts to identify pain points in the acquisition and onboarding process, continuously enhancing the user experience.
-- Manage API product development for the digital account opening platform, working with external partners to define API requirements and maintaining the product backlog.
-- Collaborate with Risk, UX, and Engineering teams to prioritize onboarding features, ensuring alignment with the overall product strategy.
-- Oversee the online account opening product roadmap, evaluating customer behavior through analytics to deliver seamless user experiences.
-- Champion Agile methodologies, leading sprint planning and backlog grooming for API and onboarding features.
+**VyStar Credit Union** — *Aug 2020 – Present*  
+- Own the **vision and roadmap** for the digital account opening platform handling **20K+ applications monthly**, aligning customer experience, compliance, and business growth.  
+- **Increased application completion rate from 29% → 41% (+40% relative lift)** between 2024–2025 by simplifying membership eligibility workflows, reducing cognitive load, and improving user clarity.  
+- **Improved conversion rate from 4.7% → 9.2% (+96% relative lift)** through iterative releases, including dynamic welcome screens and a product hub with product-specific value props that enabled faster, more informed applicant decisions.  
+- Delivered measurable improvements in funnel efficiency while **lowering denial rates by ~11%**, balancing acquisition growth with fraud/risk controls.  
+- Spearheaded **API integrations** with Plaid, LexisNexis, ChexSystems, Melissa Data, Payveris, and MeridianLink to enable secure onboarding, funding, fraud prevention, and KYC/AML compliance.  
+- Partner with **Fraud and Risk teams** to strengthen identity verification, reducing fraudulent applications by **X%** while lowering manual review effort.  
+- Manage **total cost of ownership** across vendor contracts and Azure infrastructure, negotiating annual pricing and securing new features to balance cost and value.  
+- Implemented **data-driven experiments** through code-based **A/B testing and feature flagging** with engineering teams, supported by analytics tools (Power BI, Google Analytics, Dynatrace).  
+- Partner with Engineering, UX, Risk, Compliance, InfoSec, DevOps, and Cloud Infra teams to prioritize and deliver seamless onboarding experiences.  
+- Champion **Agile practices**, leading sprint planning, **backlog refinement**, and roadmap execution across API and onboarding initiatives.  
+- Leading rollout of a **branch-friendly digital onboarding solution** for employer campaigns and community events, reducing paper processes and acquisition costs while improving employee productivity, prospect conversion, and overall brand reputation.  
 
-### Senior Quality Assurance Automation Engineer  
-**TEKsystems (Florida Blue)** – July 2019 to July 2020  
+---
 
-- Senior QA Automation Engineer for CustomerConnect, an internal agent-facing application used to display Florida Blue member information and manage accounts.
-- Created and maintained the automation suite for **Core** and **Payments** projects within CustomerConnect, covering both API and UI levels.
-- Performed manual validations to ensure team success for sprint deliverables and release milestones.
-- **Introduced, implemented, and integrated the Cucumber Framework** within the Scrum team to enhance testing clarity, centralize quality and documentation, and streamline regression validation processes.
-- Contributed to the successful launch of the **first phase of an in-house Payments solution**, eliminating the need for a third-party processor (BillTrust).
+### Senior QA Automation Engineer  
+**TEKsystems (Florida Blue)** — *Jul 2019 – Jul 2020*  
+- **Built and scaled** an automation framework for APIs and onboarding components, accelerating releases and reducing regression cycles.  
+- Partnered with product teams to define API specifications, enabling launch of an in-house payments solution.  
+- Monitored incidents and triaged defects to maintain compliance and minimize production issues.  
+
+---
 
 ### Senior QA Automation Engineer / Testing Analyst  
-**Citigroup** – May 2015 to July 2019  
-- Participated in testing efforts for Citi Credit Card Account Details & Activity and Spend Summary pages for Citibank Online and Mobile platforms (iOS and Android).
-- Assisted with the launch of the redesigned **Account Details & Activity page** for Citi ThankYou customers, contributing to rollouts for legacy and multi-relationship platformed customers.
-- Supported the adoption of **Behavioral Driven Development (BDD)** in testing for digital transformation, helping transition from eggPlant automation to the Cucumber framework.
-- Engaged in regression testing for all Cards and CBOL features across desktop and mobile platforms in North America.
-- Collaborated with cross-functional teams, including PO, TPM, and SDE, to align on testing priorities and new feature releases, ensuring seamless integration.
-- Contributed to Defect Logging and Support Resolution processes, maintaining a high validation and defect detection rate, while supporting successful iFIT pilot program testing.
+**Citigroup** — *May 2015 – Jul 2019*  
+- **Designed and implemented** automation for API integrations and onboarding features across web and mobile, supporting seamless digital experiences.  
+- Spearheaded adoption of **Behavior-Driven Development (BDD)** with Cucumber/Selenium, reducing testing time and post-release defects.  
+- Collaborated with dev and product teams on API testing and CI/CD pipelines, strengthening delivery quality.  
+- Applied defect analytics and customer insights to identify pain points, driving onboarding improvements.  
 
 ---
 
-## Education
-
-**Bachelor’s of Applied Science in IT Management**  
-Florida State College at Jacksonville, Jacksonville, FL
+## Education  
+**Bachelor of Applied Science in IT Management**  
+Florida State College at Jacksonville  
 
 ---
 
-## Certifications
-**Scrum.org**
+## Certifications  
 - [Professional Scrum Product Owner I (PSPO I)](https://www.credly.com/badges/61d6549d-1ac8-434a-87fb-f6b952b47c24)
 - [Professional Scrum Master I (PSM I)](https://www.credly.com/badges/adedbe0c-b915-47c7-9daa-894897d79cb7)
 
 ---
 
-## Interests
-
-- **Home Lab**: Manages and expands a self-hosted server environment with services such as Network Attached Storage (NAS), media streaming, cloud storage, and a reverse proxy manager.
-
----
-
-[Download PDF](ksitjar_resume.pdf) | [GitHub](https://github.com/ksitjar) | [Portfolio](https://misocloud.com)
+Kenneth Sitjar | [kenneth@misocloud.com](mailto:kenneth@misocloud.com) | [(904) 432-5695](tel:19044325695) | [LinkedIn](https://www.linkedin.com/in/ksitjar) | [Portfolio](https://misocloud.com)
