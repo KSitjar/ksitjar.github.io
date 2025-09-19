@@ -31,11 +31,11 @@ Digital Product Manager with **5+ years in product management and over a decade 
 - **Improved conversion rate from 4.7% → 9.2% (+96% relative lift)** through iterative releases, including dynamic welcome screens and a product hub with product-specific value props that enabled faster, more informed applicant decisions.  
 - Delivered measurable improvements in funnel efficiency while **lowering denial rates by ~11%**, balancing acquisition growth with fraud/risk controls.  
 - Spearheaded **API integrations** with Plaid, LexisNexis, ChexSystems, Melissa Data, Payveris, and MeridianLink to enable secure onboarding, funding, fraud prevention, and KYC/AML compliance.  
-- Partner with **Fraud and Risk teams** to strengthen identity verification, reducing fraudulent applications by **X%** while lowering manual review effort.  
+- Partner with **Fraud and Risk teams** to strengthen identity verification, reducing fraudulent applications and false positives while lowering manual review effort.
 - Manage **total cost of ownership** across vendor contracts and Azure infrastructure, negotiating annual pricing and securing new features to balance cost and value.  
 - Implemented **data-driven experiments** through code-based **A/B testing and feature flagging** with engineering teams, supported by analytics tools (Power BI, Google Analytics, Dynatrace).  
 - Partner with Engineering, UX, Risk, Compliance, InfoSec, DevOps, and Cloud Infra teams to prioritize and deliver seamless onboarding experiences.  
-- Champion **Agile practices**, leading sprint planning, **backlog refinement**, and roadmap execution across API and onboarding initiatives.  
+- Champion **Agile practices**, leading sprint planning, backlog refinement, and roadmap execution across API and onboarding initiatives.  
 - Leading rollout of a **branch-friendly digital onboarding solution** for employer campaigns and community events, reducing paper processes and acquisition costs while improving employee productivity, prospect conversion, and overall brand reputation.  
 
 ---
