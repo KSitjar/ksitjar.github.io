@@ -71,6 +71,6 @@ Florida State College at Jacksonville
 
 <p align="center">
   <a href="ksitjar_resume.pdf" download>
-    <img src="download_24dp.png" alt="Download Resume" width="24" /> Download Resume
+    <img src="download.png" alt="Download Resume" width="180" />
   </a>
 </p>
