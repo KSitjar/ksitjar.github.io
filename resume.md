@@ -69,4 +69,8 @@ Florida State College at Jacksonville
 
 ---
 
-Kenneth Sitjar | [kenneth@misocloud.com](mailto:kenneth@misocloud.com) | [(904) 432-5695](tel:19044325695) | [LinkedIn](https://www.linkedin.com/in/ksitjar) | [Portfolio](https://misocloud.com)
+<p align="center">
+  <a href="ksitjar_resume.pdf" download>
+    <img src="download_24dp.png" alt="Download Resume" width="24" /> Download Resume
+  </a>
+</p>
