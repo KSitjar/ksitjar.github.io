@@ -55,7 +55,7 @@ Own the **vision and roadmap** for the digital account opening platform handling
 
 ---
 
-### Senior QA Automation Engineer / Testing Analyst  
+#### Senior QA Automation Engineer / Testing Analyst  
 **Citigroup** — *May 2015 – Jul 2019*  
 - **Designed and implemented** automation for API integrations and onboarding features across web and mobile, supporting seamless digital experiences.  
 - Spearheaded adoption of **Behavior-Driven Development (BDD)** with Cucumber/Selenium, reducing testing time and post-release defects.  
@@ -81,3 +81,4 @@ Florida State College at Jacksonville
     <img src="download.png" alt="Download Resume" width="180" />
   </a>
 </p>
+
