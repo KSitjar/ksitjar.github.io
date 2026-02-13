@@ -29,6 +29,12 @@ Strategic Digital Product Manager with **5 + years** of experience deliverin
 **VyStar Credit Union** — *Aug 2020 – Present*  
 - Own vision, roadmap, and delivery for the digital account‑opening platform handling **20 K+ applications per month**.  
 - Lead end‑to‑end acquisition and onboarding funnel, balancing customer experience, compliance, and growth targets.  
+- Designed, shipped, and evaluated funnel changes using pre/post analysis, A/B tests, feature flags, and KPI dashboards.  
+- Partnered with Engineering, UX, DevOps, QA, Risk, Compliance, and InfoSec to deliver secure, auditable releases.  
+- Managed API integrations that enable onboarding, identity verification, funding, and fraud prevention.  
+- Maintained **100 % platform availability** and reduced known security vulnerabilities **≈ 84 %**.  
+- Optimized cloud‑infrastructure spend while scaling capacity.  
+- Rolled out a branch‑enabled digital onboarding solution for employer campaigns, eliminating
 
 ##### Key Results
 - Reduced new‑account abandonment **58.5 %** (83.55 % → 34.69 %).  
@@ -37,13 +43,6 @@ Strategic Digital Product Manager with **5 + years** of experience deliverin
 - Boosted membership completion **22.3 %** (43.27 % → 52.91 %).  
 - Lifted prospect conversion rate **115 %** (4.6 % → 9.9 %).  
 - Raised digital onboarding **MSAT** to **4.8** (+18 %) and **NPS** to **87**.  
-
-- Designed, shipped, and evaluated funnel changes using pre/post analysis, A/B tests, feature flags, and KPI dashboards.  
-- Partnered with Engineering, UX, DevOps, QA, Risk, Compliance, and InfoSec to deliver secure, auditable releases.  
-- Managed API integrations that enable onboarding, identity verification, funding, and fraud prevention.  
-- Maintained **100 % platform availability** and reduced known security vulnerabilities **≈ 84 %**.  
-- Optimized cloud‑infrastructure spend while scaling capacity.  
-- Rolled out a branch‑enabled digital onboarding solution for employer campaigns, eliminating
 
 ---
 
@@ -81,6 +80,7 @@ Florida State College at Jacksonville
     <img src="download.png" alt="Download Resume" width="180" />
   </a>
 </p>
+
 
 
 
