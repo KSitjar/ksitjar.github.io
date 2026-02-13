@@ -30,7 +30,7 @@ Strategic Digital Product Manager with **5 + years** of experience deliverin
 - Own vision, roadmap, and delivery for the digital account‑opening platform handling **20 K+ applications per month**.  
 - Lead end‑to‑end acquisition and onboarding funnel, balancing customer experience, compliance, and growth targets.  
 
-#### Key Results
+##### Key Results
 - Reduced new‑account abandonment **58.5 %** (83.55 % → 34.69 %).  
 - Reduced membership abandonment **64.7 %** (37.83 % → 13.37 %).  
 - Increased new‑account completion **201.8 %** (11.9 % → 35.92 %).  
@@ -81,5 +81,6 @@ Florida State College at Jacksonville
     <img src="download.png" alt="Download Resume" width="180" />
   </a>
 </p>
+
 
 
