@@ -1,0 +1,67 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { profile } from "../data/profile";
+---
+
+<BaseLayout
+  title="About"
+  description="About Kenneth Sitjar, a digital product manager writing about product leadership, privacy, and practical AI."
+>
+  <section class="container page-hero">
+    <p class="eyebrow">About</p>
+    <h1>I'm Kenneth Sitjar.</h1>
+    <p>
+      I am curious by default: about technology, privacy, better tools, resilient
+      living, and the small decisions that make everyday systems feel more human.
+    </p>
+  </section>
+
+  <section class="container page-section split">
+    <div>
+      <h2>Why I write the newsletter</h2>
+      <p>
+        The newsletter is where I write through the questions I cannot stop turning
+        over: how AI changes creative work, what privacy looks like in practice, and
+        how to use technology without giving up too much of ourselves to it.
+      </p>
+      <p>
+        Some of that connects to my product work, but the heart of it is personal.
+        I like learning out loud, testing ideas on my own machines, and finding the
+        line between useful innovation and unnecessary noise.
+      </p>
+    </div>
+    <aside class="card">
+      <p class="eyebrow">What I'm into</p>
+      <ul class="check-list">
+        <li>Running local AI tools and seeing what they make possible.</li>
+        <li>Thinking about privacy, security, and personal agency online.</li>
+        <li>Writing practical notes instead of polished thought-leader takes.</li>
+        <li>Learning from real-life systems, from software workflows to homestead ideas.</li>
+      </ul>
+    </aside>
+  </section>
+
+  <section class="section">
+    <div class="container cta">
+      <p class="eyebrow">Connect</p>
+      <h2>Follow Kenneth's writing or start a conversation.</h2>
+      <p>
+        Read the latest notes on Substack, or reach out directly about product work,
+        fintech onboarding, practical AI, or digital delivery.
+      </p>
+      <div class="button-row">
+        <a class="button primary" href={profile.newsletterUrl}>Read the newsletter</a>
+        <a class="button secondary" href={`mailto:${profile.email}`}>Email Kenneth Sitjar</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .split h2 {
+    margin-top: 0;
+    font-size: clamp(1.75rem, 3vw, 2.75rem);
+    line-height: 1.05;
+    letter-spacing: -0.045em;
+  }
+</style>

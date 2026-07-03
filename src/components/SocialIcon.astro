@@ -1,0 +1,54 @@
+---
+type Props = {
+  name: string;
+  label: string;
+};
+
+const { name, label } = Astro.props;
+const normalizedName = name.toLowerCase();
+---
+
+{
+  normalizedName === "email" && (
+    <svg role="img" aria-label={label} viewBox="0 0 24 24">
+      <title>{label}</title>
+      <path d="M3.75 5.75h16.5v12.5H3.75V5.75Zm1.8 1.7 6.45 5.02 6.45-5.02H5.55Zm12.9 9.1V9.72l-6.45 5.02-6.45-5.02v6.83h12.9Z" />
+    </svg>
+  )
+}
+
+{
+  normalizedName === "linkedin" && (
+    <svg role="img" aria-label={label} viewBox="0 0 24 24">
+      <title>{label}</title>
+      <path d="M5.15 8.72h3.22v10.13H5.15V8.72Zm1.62-4.95c1.03 0 1.87.78 1.87 1.78 0 .98-.84 1.77-1.87 1.77S4.9 6.53 4.9 5.55c0-1 .84-1.78 1.87-1.78Zm3.6 4.95h3.08v1.39h.04c.43-.8 1.48-1.64 3.04-1.64 3.25 0 3.85 2.04 3.85 4.7v5.68h-3.21v-5.04c0-1.2-.03-2.75-1.76-2.75-1.77 0-2.04 1.31-2.04 2.66v5.13h-3.21V8.72Z" />
+    </svg>
+  )
+}
+
+{
+  normalizedName === "x" && (
+    <svg role="img" aria-label={label} viewBox="0 0 24 24">
+      <title>{label}</title>
+      <path d="M14.08 10.16 20.54 3h-1.53l-5.61 6.22L8.92 3H3.75l6.78 9.42L3.75 20h1.53l5.93-6.6L15.95 20h5.17l-7.04-9.84Zm-2.1 2.33-.69-.94L5.83 4.1h2.35l4.4 6 .69.94 5.73 7.82h-2.35l-4.67-6.37Z" />
+    </svg>
+  )
+}
+
+{
+  normalizedName === "bluesky" && (
+    <svg role="img" aria-label={label} viewBox="0 0 24 24">
+      <title>{label}</title>
+      <path d="M12 12.44c-.9-1.72-3.36-4.92-5.65-6.5-2.2-1.52-3.04-1.26-3.6-.99-.65.31-.75 1.36-.75 1.98 0 .63.35 5.13.58 5.89.75 2.51 3.44 3.36 5.93 3.09-3.58.52-6.76 1.78-2.59 6.42 4.59 4.75 6.29-1.02 6.08-3.25-.21 2.23 1.49 8 6.08 3.25 4.17-4.64.99-5.9-2.59-6.42 2.49.27 5.18-.58 5.93-3.09.23-.76.58-5.26.58-5.89 0-.62-.1-1.67-.75-1.98-.56-.27-1.4-.53-3.6.99-2.29 1.58-4.75 4.78-5.65 6.5Z" />
+    </svg>
+  )
+}
+
+{
+  normalizedName === "newsletter" && (
+    <svg role="img" aria-label={label} viewBox="0 0 24 24">
+      <title>{label}</title>
+      <path d="M4 4.75h16v14.5H4V4.75Zm1.8 1.7v11.1h12.4V6.45H5.8Zm2 2.15h8.4v1.7H7.8V8.6Zm0 3.15h8.4v1.7H7.8v-1.7Zm0 3.15h5.6v1.7H7.8v-1.7Z" />
+    </svg>
+  )
+}

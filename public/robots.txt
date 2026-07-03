@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://misocloud.com/sitemap-index.xml

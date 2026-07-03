@@ -1,0 +1,64 @@
+---
+import CardIcon from "./CardIcon.astro";
+import type { ResumeMetric } from "../data/resume";
+
+type Props = {
+  metrics: ResumeMetric[];
+};
+
+const { metrics } = Astro.props;
+
+const getMetricIcon = (label: string) => {
+  const normalizedLabel = label.toLowerCase();
+
+  if (normalizedLabel.includes("abandonment")) {
+    return "abandonment";
+  }
+
+  if (normalizedLabel.includes("conversion") || normalizedLabel.includes("completion")) {
+    return "conversion";
+  }
+
+  if (normalizedLabel.includes("satisfaction") || normalizedLabel.includes("nps")) {
+    return "satisfaction";
+  }
+
+  if (normalizedLabel.includes("security") || normalizedLabel.includes("vulnerability")) {
+    return "security";
+  }
+
+  return "decisions";
+};
+---
+
+<div class="grid four-metrics">
+  {
+    metrics.map((metric) => (
+      <article class="card metric-card">
+        <div class="card-title-row metric-title-row">
+          <CardIcon name={getMetricIcon(metric.label)} />
+          <strong>{metric.value}</strong>
+        </div>
+        <span>{metric.label}</span>
+      </article>
+    ))
+  }
+</div>
+
+<style>
+  .four-metrics {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  @media (max-width: 960px) {
+    .four-metrics {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 560px) {
+    .four-metrics {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

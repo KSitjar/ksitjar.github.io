@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6f3ee" />
+  <circle cx="220" cy="120" r="220" fill="#49c2d5" opacity=".28" />
+  <circle cx="1040" cy="80" r="180" fill="#d97941" opacity=".25" />
+  <rect x="88" y="82" width="1024" height="466" rx="42" fill="#ffffff" opacity=".68" />
+  <text x="130" y="184" fill="#124d62" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="4">MISOCLOUD</text>
+  <text x="130" y="312" fill="#172027" font-family="Arial, sans-serif" font-size="82" font-weight="800">Kenneth Sitjar</text>
+  <text x="130" y="388" fill="#5d6873" font-family="Arial, sans-serif" font-size="38">Digital product manager building useful, trusted journeys.</text>
+  <text x="130" y="470" fill="#1d7894" font-family="Arial, sans-serif" font-size="34" font-weight="700">misocloud.com</text>
+</svg>

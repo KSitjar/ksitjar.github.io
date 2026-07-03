@@ -1,0 +1,107 @@
+---
+import "../styles/global.css";
+import SocialIcon from "../components/SocialIcon.astro";
+import { profile, siteMeta } from "../data/profile";
+
+type Props = {
+  title?: string;
+  description?: string;
+};
+
+const {
+  title = siteMeta.title,
+  description = siteMeta.description,
+} = Astro.props;
+
+const pageTitle = title === siteMeta.title ? title : `${title} | ${profile.name}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const isLocalHref = (href: string) => href.startsWith("/");
+const isExternalWebHref = (href: string) => href.startsWith("http");
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={new URL(siteMeta.image, Astro.site)} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+    <div class="site-shell">
+      <header class="site-header">
+        <nav class="container nav" aria-label="Primary navigation">
+          <a class="brand" href="/" aria-label={`${profile.name} home`}>
+            <span class="brand-mark" aria-hidden="true">
+              <svg viewBox="0 0 64 64" focusable="false">
+                <path d="M13 39.4c0-6.2 5.1-11.3 11.3-11.3 2.8 0 5.4 1 7.4 2.7A13 13 0 0 1 56 36.6C56 43.5 50.4 49 43.5 49H20.1C16.2 49 13 45.8 13 41.9v-2.5Z" />
+              </svg>
+            </span>
+            <span class="brand-text">
+              <strong>{profile.name}</strong>
+              <span>{profile.role}</span>
+            </span>
+          </a>
+          <ul class="nav-links">
+            {
+              profile.navigation.map((item) => {
+                const isActive =
+                  item.href === "/"
+                    ? Astro.url.pathname === "/"
+                    : isLocalHref(item.href) && Astro.url.pathname.startsWith(item.href);
+
+                return (
+                  <li>
+                    <a
+                      class="nav-link"
+                      href={item.href}
+                      target={isExternalWebHref(item.href) ? "_blank" : undefined}
+                      rel={isExternalWebHref(item.href) ? "noreferrer" : undefined}
+                      aria-current={isActive ? "page" : undefined}
+                    >
+                      {item.label}
+                    </a>
+                  </li>
+                );
+              })
+            }
+          </ul>
+        </nav>
+      </header>
+
+      <main id="content">
+        <slot />
+      </main>
+
+      <footer class="site-footer">
+        <div class="container footer-inner">
+          <p>&copy; {new Date().getFullYear()} {profile.name}. {profile.role}.</p>
+          <div class="footer-links" aria-label="Footer links">
+            {
+              profile.links.map((link) => (
+                <a
+                  href={link.href}
+                  target={isExternalWebHref(link.href) ? "_blank" : undefined}
+                  rel={isExternalWebHref(link.href) ? "noreferrer" : undefined}
+                  aria-label={link.label}
+                >
+                  <SocialIcon name={link.label} label={link.label} />
+                  <span class="sr-only">{link.label}</span>
+                </a>
+              ))
+            }
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
