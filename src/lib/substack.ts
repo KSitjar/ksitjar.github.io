@@ -40,7 +40,11 @@ function fetchFeedXml(url: string): Promise<string> {
       url,
       {
         headers: {
-          "User-Agent": "misocloud.com build",
+          Accept: "application/rss+xml, application/xml, text/xml, */*",
+          "Accept-Language": "en-US,en;q=0.9",
+          Referer: "https://misocloud.substack.com/",
+          "User-Agent":
+            "Mozilla/5.0 (compatible; misocloud.com build; +https://misocloud.com)",
         },
         timeout: 8000,
       },
