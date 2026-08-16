@@ -3,7 +3,7 @@
 ! Description: A list of all domains listed on https://adblock.turtlecute.org
 ! Syntax: Adblock Plus Filter List
 ! Version: 202608161528
-! Entries: 157
+! Entries: 160
 ! Expires: 24 hours
 
 ||adtago.s3.amazonaws.com^
@@ -194,4 +194,8 @@
 ||settings.data.microsoft.com^
 ||diagnostics.support.microsoft.com^
 ||diagnostics.microsoft.com^
+
+||kuqicej.org^
+||armlessfancyunzip.com^
+||engagements.appsflyersdk.com^
 
