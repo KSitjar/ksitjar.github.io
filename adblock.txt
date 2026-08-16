@@ -1,6 +1,6 @@
 [Adblock Plus]
-! Title: TurtleCute Adblock
-! Description: A list of all domains listed on https://adblock.turtlecute.org
+! Title: Custom Pihole Adblock
+! Description: A list of all domains blocked on my Pihole
 ! Syntax: Adblock Plus Filter List
 ! Version: 202608161528
 ! Entries: 161
@@ -198,5 +198,5 @@
 ||kuqicej.org^
 ||armlessfancyunzip.com^
 ||engagements.appsflyersdk.com^
-||clients.utubeva.damempire.co.uk^
+||damempire.co.uk^
 
