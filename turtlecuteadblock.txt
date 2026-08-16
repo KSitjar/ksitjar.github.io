@@ -3,7 +3,7 @@
 ! Description: A list of all domains listed on https://adblock.turtlecute.org
 ! Syntax: Adblock Plus Filter List
 ! Version: 202608161528
-! Entries: 178
+! Entries: 157
 ! Expires: 24 hours
 
 ||adtago.s3.amazonaws.com^
@@ -142,26 +142,18 @@
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
-||metrics.icloud.com^
-||metrics.mzstatic.com^
 ||metrics.data.apple.com^
 ||metrics.apple.com^
 ||xp.apple.com^
 ||gsp-ssl.apple.com^
-||iadsdk.apple.com^
 ||iad.apple.com^
 ||ads.apple.com^
 ||adservice.apple.com^
-||api-adservices.apple.com^
-||books-analytics-events.apple.com^
-||weather-analytics-events.apple.com^
-||notes-analytics-events.apple.com^
 ||app-analytics-events.apple.com^
 ||app-usage-events.apple.com^
 ||apptrailers.apple.com^
 ||icloud-analytics.apple.com^
 ||icloud-content-analytics.apple.com^
-
 
 ||api.ad.xiaomi.com^
 ||data.mistat.xiaomi.com^
@@ -202,3 +194,4 @@
 ||settings.data.microsoft.com^
 ||diagnostics.support.microsoft.com^
 ||diagnostics.microsoft.com^
+
